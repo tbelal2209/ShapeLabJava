@@ -7,7 +7,7 @@ public class Runner {
         Shape shape1 = new Rectangle(10,5);
         Shape shape2 = ETriangle(5);
         Shape shape3 = new Circle(10);
-        Shape shape = new RPentagon(5);
+        Shape shape4 = new RPentagon(5);
 
         System.out.println();
         System.out.println("My Perimeter is: " + shape4.getPerimeter());
